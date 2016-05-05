@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.dynamicTrigger</groupId>
+  <artifactId>DynamicTriggerCore</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160505082049</lastUpdated>
+  </versioning>
+</metadata>
