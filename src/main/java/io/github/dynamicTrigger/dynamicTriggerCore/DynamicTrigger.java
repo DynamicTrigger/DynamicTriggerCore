@@ -1,10 +1,10 @@
 package io.github.dynamicTrigger.dynamicTriggerCore;
 
+import java.io.PrintStream;
+
 /**
  * Created by jun26 on 2016-05-04.
  */
 public class DynamicTrigger {
-    public static void main(String... args) {
-
-    }
+    public static PrintStream out = System.out;
 }
